@@ -1,0 +1,7 @@
+To run this project, the following libraries are required:
+
+- kagglehub>=1.0
+- pandas>=2.2
+- xgboost>=3.0
+- scikit-learn>=1.5
+- matplotlib>=3.8
